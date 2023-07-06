@@ -1,8 +1,7 @@
 Github
 Jenkins
 Maven
-Docker container
-Kubernetes cluster
+Docker
+Kubernetes
 ELK
-Terraform for provisioning
-Anisbile ?
+Terraform
