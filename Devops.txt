@@ -3,6 +3,6 @@ Jenkins for continous integn
 Maven
 Docker
 Kubernetes
-ELK for monitoring
+ELK / Grafana / Prometheus for monitoring
 Terraform for provisioning
-Grafana for monitoring
+ for monitoring
