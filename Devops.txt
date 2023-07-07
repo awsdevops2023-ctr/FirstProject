@@ -5,4 +5,4 @@ Docker
 Kubernetes
 ELK for monitoring
 Terraform for provisioning
-Grafana
+Grafana for monitoring
