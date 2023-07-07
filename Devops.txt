@@ -3,5 +3,5 @@ Jenkins
 Maven
 Docker
 Kubernetes
-ELK
-Terraform
+ELK for monitoring
+Terraform for provisioning
