@@ -1,5 +1,5 @@
 Github
-Jenkins
+Jenkins for continous integration
 Maven
 Docker
 Kubernetes
